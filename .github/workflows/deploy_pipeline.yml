@@ -1,5 +1,3 @@
-
-# Trigger the workflow on pushes to dev and main branches
 on:
 push:
 branches:
